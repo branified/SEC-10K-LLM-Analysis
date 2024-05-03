@@ -1,4 +1,3 @@
-Paragraph:
 T>T7#-NN=3UFYL;&%=JL
 ^%?[)^O:Q8-JJ6$D?@^[\8:[X;_:"U;S LQ@
 M&F^(\7^DPS3)/=07"&ZM_P#$))_P5?\ C['\)_%W[4/[9GPSUW5O$GC/PQ
@@ -881,7 +880,6 @@ M44 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !111
 
 end
 
-Paragraph:
 *]<\=6/AK0K/QIXFT3PYX:\1>++72K*#Q'
 MKOA[PA=^(K_PIH>KZS'"NH:AI/AN^\7>*;S0["ZGEM=+N?$>MSV4<,FIWC2K
 MH7@_PIX8U#Q7JOASPWH>A:GX[\0Q^+?&NH:1I=GI]YXL\41>'M!\)1^(O$=S
@@ -1371,7 +1369,6 @@ M44 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !111
 
 end
 
-Paragraph:
 O[1FD_&O1/%-KX@\$:J]U\,O$/A?QM\+]+L-9\/>
 M%OV8-9UG]J+PAX&>Y^.
 M:]\-;.3Q+XNN]
@@ -1485,28 +1482,20 @@ M44 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !111
 
 end
 
-Paragraph:
 Tax benefit associated with any equity-based compensation plan other than an employee stock ownership plan (ESOP), including transfer pricing adjustments. The tax benefit results from the deduction by the entity on its tax return for an award of stock that exceeds the cumulative compensation cost for common stock or preferred stock recognized for financial reporting. Includes any resulting tax benefit that exceeds the previously recognized deferred tax asset (excess tax benefits).
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Number of subsidiaries involved in investigation.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Reflects a reduction of the estimated amount of loss from the specified contingency during the period.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Amount of decrease reasonably possible in the next twelve months for the unrecognized tax benefit.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -1517,10 +1506,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (d)(3)
  -URI http://asc.fasb.org/extlink&oid=84230637&loc=d3e32718-109319
 
-Paragraph:
 Percentage of domestic federal statutory tax rate applicable to pretax income (loss).
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -1547,10 +1534,8 @@ Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
  -Paragraph 13
  -URI http://asc.fasb.org/extlink&oid=84230637&loc=d3e32698-109319
 
-Paragraph:
 The portion of earnings or loss from continuing operations before income taxes that is attributable to foreign operations, which is defined as Income or Loss generated from operations located outside the entity's country of domicile.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -1561,16 +1546,12 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (SX 210.4-08.(h)(1)(i))
  -URI http://asc.fasb.org/extlink&oid=26873400&loc=d3e23780-122690
 
-Paragraph:
 Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Reflects the estimated amount of loss from the specified contingency as of the balance sheet date.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -1598,10 +1579,8 @@ Reference 3: http://www.xbrl.org/2003/role/disclosureRef
  -Paragraph 2
  -URI http://asc.fasb.org/extlink&oid=118943654&loc=d3e12021-110248
 
-Paragraph:
 Amount of unrecognized tax benefits.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -1620,10 +1599,8 @@ Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (a)
  -URI http://asc.fasb.org/extlink&oid=84230637&loc=SL6600010-109319
 
-Paragraph:
 Amount accrued for interest on an underpayment of income taxes and penalties related to a tax position claimed or expected to be claimed in the tax return.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -1634,10 +1611,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (c)
  -URI http://asc.fasb.org/extlink&oid=84230637&loc=d3e32718-109319
 
-Paragraph:
 Amount of expense for interest on an underpayment of income taxes and penalties related to a tax position claimed or expected to be claimed in the tax return.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -1648,10 +1623,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (c)
  -URI http://asc.fasb.org/extlink&oid=84230637&loc=d3e32718-109319
 
-Paragraph:
 The total amount of unrecognized tax benefits that, if recognized, would affect the effective tax rate.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -1662,10 +1635,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (b)
  -URI http://asc.fasb.org/extlink&oid=84230637&loc=SL6600010-109319
 
-Paragraph:
 Carrying value as of the balance sheet date of short-term borrowings using unsecured obligations issued by banks, corporations and other borrowers to investors. The maturities of these money market securities generally do not exceed 270 days.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -1694,10 +1665,8 @@ Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (SX 210.5-02(19)(a)(3))
  -URI http://asc.fasb.org/extlink&oid=6877327&loc=d3e13212-122682
 
-Paragraph:
 Amount, before unamortized (discount) premium and debt issuance costs, of long-term debt. Includes, but is not limited to, notes payable, bonds payable, commercial loans, mortgage loans, convertible debt, subordinated debt and other types of debt.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -1735,22 +1704,16 @@ Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (SX 210.9-03(16))
  -URI http://asc.fasb.org/extlink&oid=6876686&loc=d3e534808-122878
 
-Paragraph:
 Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Period of time between issuance and maturity of debt instrument, in PnYnMnDTnHnMnS' format, for example, 'P1Y5M13D' represents the reported fact of one year, five months, and thirteen days.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Total interest costs incurred during the period and either capitalized or charged against earnings.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -1761,16 +1724,12 @@ Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Subparagraph (b)
  -URI http://asc.fasb.org/extlink&oid=6450988&loc=d3e26243-108391
 
-Paragraph:
 The fair value amount of long-term debt whether such amount is presented as a separate caption or as a parenthetical disclosure. Additionally, this element may be used in connection with the fair value disclosures required in the footnote disclosures to the financial statements. The element may be used in both the balance sheet and disclosure in the same submission.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Including the current and noncurrent portions, carrying value as of the balance sheet date of Notes with the highest claim on the assets of the issuer in case of bankruptcy or liquidation (with maturities initially due after one year or beyond the operating cycle if longer). Senior note holders are paid off in full before any payments are made to junior note holders.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -1790,10 +1749,8 @@ Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (SX 210.9-03.16)
  -URI http://asc.fasb.org/extlink&oid=6876686&loc=d3e534808-122878
 
-Paragraph:
 Weighted average interest rate of short-term debt outstanding calculated at point in time.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -1804,34 +1761,24 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (SX 210.5-02.19(b))
  -URI http://asc.fasb.org/extlink&oid=6877327&loc=d3e13212-122682
 
-Paragraph:
 The total amount utilized to date under share repurchase program.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 The up-front payment in exchange for initial delivery of Company shares under the accelerated share repurchase arrangement ("ASR"). Shareholders' equity is charged for this amount in the period of payment. This payment is distinct from a "settlement" cash or share transaction, which takes place at the conclusion of the ASR.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Amount of stock repurchase plan authorized.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Number of shares that have been repurchased and retired during the period.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -1868,10 +1815,8 @@ Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
  -Paragraph 2
  -URI http://asc.fasb.org/extlink&oid=109259400&loc=d3e21463-112644
 
-Paragraph:
 Equity impact of the value of stock that has been repurchased and retired during the period. The excess of the purchase price over par value can be charged against retained earnings (once the excess is fully allocated to additional paid in capital).
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -1908,13 +1853,10 @@ Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (SX 210.3-04)
  -URI http://asc.fasb.org/extlink&oid=27012166&loc=d3e187085-122770
 
-Paragraph:
 No definition available.
 
-Paragraph:
 The amount of net income (loss) for the period per each share of common stock or unit outstanding during the reporting period.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -1993,10 +1935,8 @@ Reference 9: http://www.xbrl.org/2003/role/disclosureRef
  -Subparagraph (d)
  -URI http://asc.fasb.org/extlink&oid=117326831&loc=SL5780133-109256
 
-Paragraph:
 The amount of net income (loss) for the period available to each share of common stock or common unit outstanding during the reporting period and to each share or unit that would have been outstanding assuming the issuance of common shares or units for all dilutive potential common shares or units outstanding during the reporting period.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/exampleRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -2075,10 +2015,8 @@ Reference 9: http://www.xbrl.org/2003/role/disclosureRef
  -Subparagraph (SX 210.7-04(19))
  -URI http://asc.fasb.org/extlink&oid=116637232&loc=SL114874131-224263
 
-Paragraph:
 Aggregate revenue less cost of goods and services sold or operating expenses directly attributable to the revenue generation activity.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -2089,10 +2027,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (SX 210.5-03.1,2)
  -URI http://asc.fasb.org/extlink&oid=116634182&loc=SL114868664-224227
 
-Paragraph:
 The portion of profit or loss for the period, net of income taxes, which is attributable to the parent.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -2155,10 +2091,8 @@ Reference 7: http://fasb.org/us-gaap/role/ref/legacyRef
  -Paragraph 1
  -URI http://asc.fasb.org/extlink&oid=6371337&loc=d3e3550-109257
 
-Paragraph:
 Amount, excluding tax collected from customer, of revenue from satisfaction of performance obligation by transferring promised good or service to customer. Tax collected from customer is tax assessed by governmental authority that is both imposed on and concurrent with specific revenue-producing transaction, including, but not limited to, sales, use, value added and excise.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -2177,13 +2111,10 @@ Reference 2: http://www.xbrl.org/2003/role/disclosureRef
  -Paragraph 5
  -URI http://asc.fasb.org/extlink&oid=118956577&loc=SL49130545-203045
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Face amount or stated value per share of common stock.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -2194,10 +2125,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (SX 210.5-02(29))
  -URI http://asc.fasb.org/extlink&oid=6877327&loc=d3e13212-122682
 
-Paragraph:
 The maximum number of common shares permitted to be issued by an entity's charter and bylaws.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -2208,10 +2137,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (SX 210.5-02(29))
  -URI http://asc.fasb.org/extlink&oid=6877327&loc=d3e13212-122682
 
-Paragraph:
 Total number of common shares of an entity that have been sold or granted to shareholders (includes common shares that were issued, repurchased and remain in the treasury). These shares represent capital invested by the firm's shareholders and owners, and may be all or only a portion of the number of shares authorized. Shares issued include shares outstanding and shares held in the treasury.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -2222,10 +2149,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (SX 210.5-02(29))
  -URI http://asc.fasb.org/extlink&oid=6877327&loc=d3e13212-122682
 
-Paragraph:
 Number of shares of common stock outstanding. Common stock represent the ownership interest in a corporation.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -2244,31 +2169,22 @@ Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (SX 210.5-02(29))
  -URI http://asc.fasb.org/extlink&oid=6877327&loc=d3e13212-122682
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Area code of city
 
-Paragraph:
 No definition available.
 
-Paragraph:
 End date of current fiscal year in the format --MM-DD.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Boolean flag that is true only for a form used as an annual report.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/presentationRef
  -Publisher SEC
  -Name Forms 10-K, 20-F, 40-F
@@ -2276,28 +2192,20 @@ Reference 1: http://www.xbrl.org/2003/role/presentationRef
  -Section 15
  -Subsection d-1
 
-Paragraph:
 Fiscal period values are FY, Q1, Q2, and Q3.  1st, 2nd and 3rd quarter 10-Q or 10-QT statements have value Q1, Q2, and Q3 respectively, with 10-K, 10-KT or other fiscal year statements having FY.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 This is focus fiscal year of the document report in CCYY format. For a 2006 annual report, which may also provide financial information from prior periods, fiscal 2006 should be given as the fiscal year focus. Example: 2006.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 The end date of the period reflected on the cover page if a periodic report. For all other reports and registration statements containing historical data, it is the date up through which that historical data is presented.  If there is no historical data in the report, use the filing date. The format of the date is CCYY-MM-DD.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Boolean flag that is true only for a form used as a transition report.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/presentationRef
  -Publisher SEC
  -Name Forms 10-K, 10-Q, 20-F
@@ -2305,40 +2213,28 @@ Reference 1: http://www.xbrl.org/2003/role/presentationRef
  -Section 13
  -Subsection a-1-
 
-Paragraph:
 The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Address Line 1 such as Attn, Building Name, Street Name
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Name of the City or Town
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Code for the postal or zip code
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Name of the state or province.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/presentationRef
  -Publisher SEC
  -Name Regulation 12B
@@ -2346,22 +2242,16 @@ Reference 1: http://www.xbrl.org/2003/role/presentationRef
  -Section 12
  -Subsection b-2
 
-Paragraph:
 Indicate number of shares or other units outstanding of each of registrant's classes of capital or common stock or other ownership interests, if and as stated on cover of related periodic report. Where multiple classes or units exist define each class/interest by adding class of stock items such as Common Class A [Member], Common Class B [Member] or Partnership Interest [Member] onto the Instrument [Domain] of the Entity Listings, Instrument.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Indicate 'Yes' or 'No' whether registrants (1) have filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that registrants were required to file such reports), and (2) have been subject to such filing requirements for the past 90 days. This information should be based on the registrant's current or most recent filing containing the related disclosure.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Indicate if registrant meets the emerging growth company criteria.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/presentationRef
  -Publisher SEC
  -Name Regulation 12B
@@ -2369,16 +2259,12 @@ Reference 1: http://www.xbrl.org/2003/role/presentationRef
  -Section 12
  -Subsection b-2
 
-Paragraph:
 Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Indicate whether the registrant is one of the following: Large Accelerated Filer, Accelerated Filer, Non-accelerated Filer. Definitions of these categories are stated in Rule 12b-2 of the Exchange Act. This information should be based on the registrant's current or most recent filing containing the related disclosure.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/presentationRef
  -Publisher SEC
  -Name Regulation 12B
@@ -2386,38 +2272,28 @@ Reference 1: http://www.xbrl.org/2003/role/presentationRef
  -Section 12
  -Subsection b-2
 
-Paragraph:
 Two-character EDGAR code representing the state or country of incorporation.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Boolean flag that is true when the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/presentationRef
  -Publisher SEC
  -Name Regulation S-T
  -Number 232
  -Section 405
 
-Paragraph:
 The aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant's most recently completed second fiscal quarter.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/presentationRef
  -Publisher SEC
  -Name Regulation 12B
@@ -2425,10 +2301,8 @@ Reference 1: http://www.xbrl.org/2003/role/presentationRef
  -Section 12
  -Subsection b-2
 
-Paragraph:
 Boolean flag that is true when the registrant is a shell company as defined in Rule 12b-2 of the Exchange Act.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/presentationRef
  -Publisher SEC
  -Name Regulation 12B
@@ -2436,10 +2310,8 @@ Reference 1: http://www.xbrl.org/2003/role/presentationRef
  -Section 12
  -Subsection b-2
 
-Paragraph:
 Indicates that the company is a Smaller Reporting Company (SRC).
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/presentationRef
  -Publisher SEC
  -Name Regulation 12B
@@ -2447,10 +2319,8 @@ Reference 1: http://www.xbrl.org/2003/role/presentationRef
  -Section 12
  -Subsection b-2
 
-Paragraph:
 The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/presentationRef
  -Publisher SEC
  -Name Regulation 12B
@@ -2458,28 +2328,20 @@ Reference 1: http://www.xbrl.org/2003/role/presentationRef
  -Section 12
  -Subsection b-2
 
-Paragraph:
 Indicate 'Yes' or 'No' if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Indicate 'Yes' or 'No' if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Is used on Form Type: 10-K, 10-Q, 8-K, 20-F, 6-K, 10-K/A, 10-Q/A, 20-F/A, 6-K/A, N-CSR, N-Q, N-1A.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Local phone number for entity.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Title of a 12(b) registered security.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/presentationRef
  -Publisher SEC
  -Name Exchange Act
@@ -2487,10 +2349,8 @@ Reference 1: http://www.xbrl.org/2003/role/presentationRef
  -Section 12
  -Subsection b
 
-Paragraph:
 Name of the Exchange on which a security is registered.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/presentationRef
  -Publisher SEC
  -Name Exchange Act
@@ -2498,42 +2358,32 @@ Reference 1: http://www.xbrl.org/2003/role/presentationRef
  -Section 12
  -Subsection d1-1
 
-Paragraph:
 Trading symbol of an instrument as listed on an exchange.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 The entire disclosure for income taxes. Disclosures may include net deferred tax liability or asset recognized in an enterprise's statement of financial position, net change during the year in the total valuation allowance, approximate tax effect of each type of temporary difference and carryforward that gives rise to a significant portion of deferred tax liabilities and deferred tax assets, utilization of a tax carryback, and tax uncertainties information.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
  -Topic 740
  -URI http://asc.fasb.org/topic&trid=2144680
 
-Paragraph:
 No definition available.
 
-Paragraph:
 The entire disclosure of revenue from contract with customer to transfer good or service and to transfer nonfinancial asset. Includes, but is not limited to, disaggregation of revenue, credit loss recognized from contract with customer, judgment and change in judgment related to contract with customer, and asset recognized from cost incurred to obtain or fulfill contract with customer. Excludes insurance and lease contracts.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Publisher FASB
  -Name Accounting Standards Codification
  -Topic 606
  -URI http://asc.fasb.org/topic&trid=49130388
 
-Paragraph:
 The entire disclosure for an entity's employee compensation and benefit plans, including, but not limited to, postemployment and postretirement benefit plans, defined benefit pension plans, defined contribution plans, non-qualified and supplemental benefit plans, deferred compensation, share-based compensation, life insurance, severance, health care, unemployment and other benefit plans.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -2555,13 +2405,10 @@ Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
  -Topic 715
  -URI http://asc.fasb.org/topic&trid=2235017
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Amount, before tax, of unrealized gain in accumulated other comprehensive income (AOCI) on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale).
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -2572,10 +2419,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (b)
  -URI http://asc.fasb.org/extlink&oid=118939692&loc=d3e27161-111563
 
-Paragraph:
 Amount, before tax, of unrealized loss in accumulated other comprehensive income (AOCI) on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale).
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -2586,10 +2431,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (c)
  -URI http://asc.fasb.org/extlink&oid=118939692&loc=d3e27161-111563
 
-Paragraph:
 Amortized cost of investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale).
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -2608,10 +2451,8 @@ Reference 2: http://www.xbrl.org/2003/role/disclosureRef
  -Paragraph 1
  -URI http://asc.fasb.org/extlink&oid=118942338&loc=SL82898722-210454
 
-Paragraph:
 Amount of investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale).
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -2639,10 +2480,8 @@ Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (aa)
  -URI http://asc.fasb.org/extlink&oid=118939692&loc=d3e27161-111563
 
-Paragraph:
 Amount of currency on hand as well as demand deposits with banks or financial institutions. Includes other kinds of accounts that have the general characteristics of demand deposits. Also includes short-term, highly liquid investments that are both readily convertible to known amounts of cash and so near their maturity that they present insignificant risk of changes in value because of changes in interest rates. Excludes cash and cash equivalents within disposal group and discontinued operation.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -2670,10 +2509,8 @@ Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (SX 210.5-02.1)
  -URI http://asc.fasb.org/extlink&oid=6877327&loc=d3e13212-122682
 
-Paragraph:
 Amount of investment in marketable security, classified as current.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -2693,10 +2530,8 @@ Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (SX 210.5-02.2)
  -URI http://asc.fasb.org/extlink&oid=6877327&loc=d3e13212-122682
 
-Paragraph:
 Amount of investment in marketable security, classified as noncurrent.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -2707,28 +2542,20 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (SX 210.5-02.12)
  -URI http://asc.fasb.org/extlink&oid=6877327&loc=d3e13212-122682
 
-Paragraph:
 Investments which are not defined as or included in marketable (debt, equity, or other) securities whose use is restricted in whole or in part, generally by contractual agreements or regulatory requirements. For use in an unclassified balance sheet.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 The number of performance obligations regularly included in arrangements involving the sale of products, allocated based on relative stand-alone selling price (SSP).
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Amount of obligation to transfer good or service to customer for which consideration has been received or is receivable.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -2755,13 +2582,10 @@ Reference 3: http://www.xbrl.org/2003/role/disclosureRef
  -Paragraph 2
  -URI http://asc.fasb.org/extlink&oid=118944033&loc=SL49130532-203044
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Tabular disclosure of the reconciliation of profit (loss) from reportable segments to the consolidated income (loss) before income tax expense (benefit) and discontinued operations. Includes, but is not limited to, reconciliation after income tax if income tax is allocated to the reportable segment.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -2780,10 +2604,8 @@ Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (b)
  -URI http://asc.fasb.org/extlink&oid=115929826&loc=d3e8906-108599
 
-Paragraph:
 Tabular disclosure of information concerning material long-lived assets (excluding financial instruments, customer relationships with financial institutions, mortgage and other servicing rights, deferred policy acquisition costs, and deferred taxes assets) located in identified geographic areas and/or the amount of revenue from external customers attributed to that country from which revenue is material.  An entity may also provide subtotals of geographic information about groups of countries.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -2802,10 +2624,8 @@ Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (SX 210.5-03.1)
  -URI http://asc.fasb.org/extlink&oid=116634182&loc=SL114868664-224227
 
-Paragraph:
 Tabular disclosure of the profit or loss and total assets for each reportable segment. An entity discloses certain information on each reportable segment if the amounts (a) are included in the measure of segment profit or loss reviewed by the chief operating decision maker or (b) are otherwise regularly provided to the chief operating decision maker, even if not included in that measure of segment profit or loss.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -2848,22 +2668,16 @@ Reference 5: http://fasb.org/us-gaap/role/ref/legacyRef
  -Paragraph 30
  -URI http://asc.fasb.org/extlink&oid=115929826&loc=d3e8906-108599
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Entity's cash, cash equivalents and marketable securities accounting policy with respect to restricted balances. Restrictions may include legally restricted deposits held as compensating balances against short-term borrowing arrangements, contracts entered into with others, or company statements of intention with regard to particular deposits; however, time deposits and short-term certificates of deposit are not generally included in legally restricted deposits.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Disclosure of accounting policy for advertising cost.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -2874,16 +2688,12 @@ Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Subparagraph (a)
  -URI http://asc.fasb.org/extlink&oid=6420018&loc=d3e36677-107848
 
-Paragraph:
 Disclosure of accounting policy for basis of accounting, or basis of presentation, used to prepare the financial statements (for example, US Generally Accepted Accounting Principles, Other Comprehensive Basis of Accounting, IFRS).
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Disclosure of accounting policy for cash and cash equivalents, including the policy for determining which items are treated as cash equivalents. Other information that may be disclosed includes (1) the nature of any restrictions on the entity's use of its cash and cash equivalents, (2) whether the entity's cash and cash equivalents are insured or expose the entity to credit risk, (3) the classification of any negative balance accounts (overdrafts), and (4) the carrying basis of cash equivalents (for example, at cost) and whether the carrying amount of cash equivalents approximates fair value.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -2910,10 +2720,8 @@ Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
  -Paragraph 3
  -URI http://asc.fasb.org/extlink&oid=84158767&loc=d3e18780-107790
 
-Paragraph:
 Disclosure of accounting policy for salaries, bonuses, incentive awards, postretirement and postemployment benefits granted to employees, including equity-based arrangements; discloses methodologies for measurement, and the bases for recognizing related assets and liabilities and recognizing and reporting compensation expense.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -2932,10 +2740,8 @@ Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
  -Paragraph 1
  -URI http://asc.fasb.org/extlink&oid=84158767&loc=d3e18726-107790
 
-Paragraph:
 Disclosure of accounting policy for its derivative instruments and hedging activities.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -2994,10 +2800,8 @@ Reference 7: http://fasb.org/us-gaap/role/ref/legacyRef
  -Paragraph 1
  -URI http://asc.fasb.org/extlink&oid=109980867&loc=SL5579240-113959
 
-Paragraph:
 Disclosure of accounting policy for computing basic and diluted earnings or loss per share for each class of common stock and participating security. Addresses all significant policy factors, including any antidilutive items that have been excluded from the computation and takes into account stock dividends, splits and reverse splits that occur after the balance sheet date of the latest reporting period but before the issuance of the financial statements.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3032,10 +2836,8 @@ Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
  -Paragraph 2
  -URI http://asc.fasb.org/extlink&oid=6371337&loc=d3e3630-109257
 
-Paragraph:
 Disclosure of accounting policy for investment in equity security without readily determinable fair value, which does not qualify for practical expedient to estimate fair value using net asset value per share. Includes, but is not limited to, information considered for determining upward and downward adjustment from observable price change.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3046,16 +2848,12 @@ Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Subparagraph (d)
  -URI http://asc.fasb.org/extlink&oid=116654751&loc=SL75117539-209714
 
-Paragraph:
 Disclosure of accounting policy for fair value measurements of financial and non-financial assets, liabilities and instruments classified in shareholders' equity. Disclosures include, but are not limited to, how an entity that manages a group of financial assets and liabilities on the basis of its net exposure measures the fair value of those assets and liabilities.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Disclosure of accounting policy for determining an entity's fiscal year or other fiscal period. This disclosure may include identification of the fiscal period end-date, the length of the fiscal period, any reporting period lag between the entity and its subsidiaries, or equity investees. If a reporting lag exists, the closing date of the entity having a different period end is generally noted, along with an explanation of the necessity for using different closing dates. Any intervening events that materially affect the entity's financial position or results of operations are generally also disclosed.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3083,10 +2881,8 @@ Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (SX 210.3A-03(b))
  -URI http://asc.fasb.org/extlink&oid=116822174&loc=d3e355100-122828
 
-Paragraph:
 Disclosure of accounting policy for income taxes, which may include its accounting policies for recognizing and measuring deferred tax assets and liabilities and related valuation allowances, recognizing investment tax credits, operating loss carryforwards, tax credit carryforwards, and other carryforwards, methodologies for determining its effective income tax rate and the characterization of interest and penalties in the financial statements.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3161,10 +2957,8 @@ Reference 9: http://fasb.org/us-gaap/role/ref/legacyRef
  -Paragraph 1
  -URI http://asc.fasb.org/extlink&oid=65884525&loc=d3e40913-109327
 
-Paragraph:
 Disclosure of inventory accounting policy for inventory classes, including, but not limited to, basis for determining inventory amounts, methods by which amounts are added and removed from inventory classes, loss recognition on impairment of inventories, and situations in which inventories are stated above cost.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3216,16 +3010,12 @@ Reference 6: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (SX 210.5-02.6(b))
  -URI http://asc.fasb.org/extlink&oid=6877327&loc=d3e13212-122682
 
-Paragraph:
 Disclosure of accounting policy pertaining to new accounting pronouncements that may impact the entity's financial reporting. Includes, but is not limited to, quantification of the expected or actual impact.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Disclosure of accounting policy for long-lived, physical assets used in the normal conduct of business and not intended for resale. Includes, but is not limited to, basis of assets, depreciation and depletion methods used, including composite deprecation, estimated useful lives, capitalization policy, accounting treatment for costs incurred for repairs and maintenance, capitalized interest and the method it is calculated, disposals and impairments.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3252,10 +3042,8 @@ Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
  -Paragraph 3
  -URI http://asc.fasb.org/extlink&oid=84158767&loc=d3e18780-107790
 
-Paragraph:
 Disclosure of accounting policy for revenue. Includes revenue from contract with customer and from other sources.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/exampleRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3275,10 +3063,8 @@ Reference 2: http://www.xbrl.org/2003/role/exampleRef
  -Subparagraph (f)
  -URI http://asc.fasb.org/extlink&oid=84158767&loc=d3e18823-107790
 
-Paragraph:
 Disclosure of accounting policy for segment reporting.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3288,25 +3074,18 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Paragraph 3
  -URI http://asc.fasb.org/extlink&oid=84158767&loc=d3e18780-107790
 
-Paragraph:
 Tabular disclosure of interest income and income classified as other.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Tabular disclosure of other noncurrent liabilities.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Tabular disclosure of physical assets used in the normal conduct of business and not intended for resale. Includes, but is not limited to, balances by class of assets, depreciation and depletion expense and method used, including composite depreciation, and accumulated deprecation.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3325,19 +3104,14 @@ Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
  -Paragraph 1
  -URI http://asc.fasb.org/extlink&oid=6391035&loc=d3e2868-110229
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Tabular disclosure of information about items reclassified out of accumulated other comprehensive income (loss).
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Tabular disclosure of the components of accumulated other comprehensive income (loss).
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3347,10 +3121,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Paragraph 14A
  -URI http://asc.fasb.org/extlink&oid=118930883&loc=SL7669686-108580
 
-Paragraph:
 Amount of current federal tax expense (benefit) pertaining to income (loss) from continuing operations.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3379,10 +3151,8 @@ Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (a)
  -URI http://asc.fasb.org/extlink&oid=84230637&loc=d3e32639-109319
 
-Paragraph:
 Amount of current foreign income tax expense (benefit) pertaining to income (loss) from continuing operations.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3401,10 +3171,8 @@ Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (SX 210.4-08.(h))
  -URI http://asc.fasb.org/extlink&oid=26873400&loc=d3e23780-122690
 
-Paragraph:
 Amount of current state and local tax expense (benefit) pertaining to income (loss) from continuing operations.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3433,10 +3201,8 @@ Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (a)
  -URI http://asc.fasb.org/extlink&oid=84230637&loc=d3e32639-109319
 
-Paragraph:
 Amount of deferred federal income tax expense (benefit) pertaining to income (loss) from continuing operations.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3465,10 +3231,8 @@ Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (SAB Topic 6.I.7)
  -URI http://asc.fasb.org/extlink&oid=116825942&loc=d3e330036-122817
 
-Paragraph:
 Amount of deferred foreign income tax expense (benefit) pertaining to income (loss) from continuing operations.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3497,10 +3261,8 @@ Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (SX 210.4-08(h))
  -URI http://asc.fasb.org/extlink&oid=26873400&loc=d3e23780-122690
 
-Paragraph:
 Amount of deferred state and local tax expense (benefit) pertaining to income (loss) from continuing operations.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3529,10 +3291,8 @@ Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (b)
  -URI http://asc.fasb.org/extlink&oid=84230637&loc=d3e32639-109319
 
-Paragraph:
 Amount of current and deferred federal income tax expense (benefit) attributable to income (loss) from continuing operations.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3551,13 +3311,10 @@ Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
  -Paragraph 10
  -URI http://asc.fasb.org/extlink&oid=84230637&loc=d3e32672-109319
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Amount of current and deferred foreign income tax expense (benefit) attributable to income (loss) from continuing operations.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3568,13 +3325,10 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (SX 210.4-08.(h)(1))
  -URI http://asc.fasb.org/extlink&oid=26873400&loc=d3e23780-122690
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Amount of current income tax expense (benefit) and deferred income tax expense (benefit) pertaining to continuing operations.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3603,10 +3357,8 @@ Reference 3: http://www.xbrl.org/2003/role/disclosureRef
  -Subparagraph (a)
  -URI http://asc.fasb.org/extlink&oid=109238882&loc=d3e38679-109324
 
-Paragraph:
 Amount of state and local current and deferred income tax expense (benefit) attributable to continuing operations.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3635,25 +3387,18 @@ Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (SAB TOPIC 6.I.7)
  -URI http://asc.fasb.org/extlink&oid=116825942&loc=d3e330036-122817
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Gross exposure to potential accounting loss on outstanding or unsettled derivative instruments that would arise if all counterparties failed to perform according to the terms of the contract.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Nominal or face amount used to calculate payment on derivative.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2009/role/commonPracticeRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3672,16 +3417,12 @@ Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
  -Subparagraph (d)
  -URI http://asc.fasb.org/extlink&oid=109980867&loc=SL5579245-113959
 
-Paragraph:
 No definition available.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Amount of investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale), in continuous unrealized loss position for more than 12 months, without allowance for credit loss. Includes beneficial interest in securitized financial asset.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3707,10 +3448,8 @@ Reference 3: http://www.xbrl.org/2003/role/exampleRef
  -Paragraph 8
  -URI http://asc.fasb.org/extlink&oid=118942371&loc=SL82922954-210456
 
-Paragraph:
 Amount of accumulated unrealized loss on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale), in continuous unrealized loss position for 12 months or longer, without allowance for credit loss. Includes beneficial interest in securitized financial asset.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3728,10 +3467,8 @@ Reference 2: http://www.xbrl.org/2003/role/disclosureRef
  -Paragraph 5
  -URI http://asc.fasb.org/extlink&oid=118955579&loc=SL82922890-210455
 
-Paragraph:
 Amount of investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale), in continuous unrealized loss position for less than 12 months, without allowance for credit loss. Includes beneficial interest in securitized financial asset.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3757,10 +3494,8 @@ Reference 3: http://www.xbrl.org/2003/role/exampleRef
  -Paragraph 8
  -URI http://asc.fasb.org/extlink&oid=118942371&loc=SL82922954-210456
 
-Paragraph:
 Amount of accumulated unrealized loss on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale), in continuous unrealized loss position for less than 12 months, without allowance for credit loss. Includes beneficial interest in securitized financial asset.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3778,10 +3513,8 @@ Reference 2: http://www.xbrl.org/2003/role/disclosureRef
  -Paragraph 7
  -URI http://asc.fasb.org/extlink&oid=118939692&loc=d3e27337-111563
 
-Paragraph:
 Amount of investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale), in unrealized loss position without allowance for credit loss.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3809,10 +3542,8 @@ Reference 3: http://www.xbrl.org/2003/role/exampleRef
  -Paragraph 8
  -URI http://asc.fasb.org/extlink&oid=118942371&loc=SL82922954-210456
 
-Paragraph:
 Amount of accumulated unrealized loss on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale), in unrealized loss position, without allowance for credit loss. Includes beneficial interest in securitized financial asset.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3832,52 +3563,36 @@ Reference 2: http://www.xbrl.org/2003/role/disclosureRef
  -Subparagraph (a)(2)
  -URI http://asc.fasb.org/extlink&oid=118955579&loc=SL82922888-210455
 
-Paragraph:
 Maximum dollar amount of Company stock that employees may purchase under the Employee Stock Purchase Plan.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Factor (generally 2-for-1) by which shares available for future grant change as a result of RSU transactions. Each RSU granted reduces shares available for future grant, and each RSU canceled or withheld to satisfy tax withholding obligations increases shares available for future grant.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Share-based Compensation Arrangement by Share-based Payment Award, Offering Term
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other Than Options, Number of Shares of Common Shares Awarded Upon Settlement
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Percentage of employees' gross pay for which the employer contributes a matching contribution to a defined contribution plan.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Percentage employer matches of the employee's percentage contribution matched.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Maximum amount the employee may contribute to a defined contribution plan.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Amount of cost not yet recognized for nonvested award under share-based payment arrangement.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3888,10 +3603,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (i)
  -URI http://asc.fasb.org/extlink&oid=116856206&loc=d3e5070-113901
 
-Paragraph:
 Weighted-average period over which cost not yet recognized is expected to be recognized for award under share-based payment arrangement, in 'PnYnMnDTnHnMnS' format, for example, 'P1Y5M13D' represents reported fact of one year, five months, and thirteen days.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3902,10 +3615,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (i)
  -URI http://asc.fasb.org/extlink&oid=116856206&loc=d3e5070-113901
 
-Paragraph:
 Amount of cash outflow to satisfy grantee's tax withholding obligation for award under share-based payment arrangement.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3916,10 +3627,8 @@ Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Subparagraph (a)
  -URI http://asc.fasb.org/extlink&oid=118932676&loc=d3e3291-108585
 
-Paragraph:
 Period over which grantee's right to exercise award under share-based payment arrangement is no longer contingent on satisfaction of service or performance condition, in 'PnYnMnDTnHnMnS' format, for example, 'P1Y5M13D' represents reported fact of one year, five months, and thirteen days. Includes, but is not limited to, combination of market, performance or service condition.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3930,10 +3639,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (a)(1)
  -URI http://asc.fasb.org/extlink&oid=116856206&loc=d3e5070-113901
 
-Paragraph:
 Fair value of share-based awards for which the grantee gained the right by satisfying service and performance requirements, to receive or retain shares or units, other instruments, or cash.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3944,16 +3651,12 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (d)(2)
  -URI http://asc.fasb.org/extlink&oid=116856206&loc=d3e5070-113901
 
-Paragraph:
 Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 The highest percentage of annual salary that an employee is permitted to utilize with respect to the plan.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3963,10 +3666,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Paragraph 2
  -URI http://asc.fasb.org/extlink&oid=116856206&loc=d3e5070-113901
 
-Paragraph:
 Number of shares authorized for issuance under share-based payment arrangement.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3977,10 +3678,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (a)(3)
  -URI http://asc.fasb.org/extlink&oid=116856206&loc=d3e5070-113901
 
-Paragraph:
 The difference between the maximum number of shares (or other type of equity) authorized for issuance under the plan (including the effects of amendments and adjustments), and the sum of: 1) the number of shares (or other type of equity) already issued upon exercise of options or other equity-based awards under the plan; and 2) shares (or other type of equity) reserved for issuance on granting of outstanding awards, net of cancellations and forfeitures, if applicable.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -3990,34 +3689,24 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Paragraph 2
  -URI http://asc.fasb.org/extlink&oid=116856206&loc=d3e5070-113901
 
-Paragraph:
 Purchase price of common stock expressed as a percentage of its fair value.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Number of shares used to settle grantee's tax withholding obligation for award under share-based payment arrangement.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Commitments and Contingencies Disclosure [Line Items]
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Amount awarded to other party in judgment or settlement of litigation, revised as a result of post-trial or other subsequent proceedings.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Term of lessee's operating lease, in 'PnYnMnDTnHnMnS' format, for example, 'P1Y5M13D' represents reported fact of one year, five months, and thirteen days.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2009/role/commonPracticeRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4028,16 +3717,12 @@ Reference 1: http://www.xbrl.org/2009/role/commonPracticeRef
  -Subparagraph (a)(3)
  -URI http://asc.fasb.org/extlink&oid=77888426&loc=SL77918673-209980
 
-Paragraph:
 Amount awarded to other party in judgment or settlement of litigation.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Amount of required minimum rental payments for leases having an initial or remaining non-cancelable letter-terms in excess of one year.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/otherTransitionRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4057,10 +3742,8 @@ Reference 2: http://fasb.org/us-gaap/role/ref/otherTransitionRef
  -Subparagraph (Note 3)
  -URI http://asc.fasb.org/extlink&oid=82846649&loc=d3e38371-112697
 
-Paragraph:
 Rental expense for the reporting period incurred under operating leases, including minimum and any contingent rent expense, net of related sublease income.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/otherTransitionRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4070,13 +3753,10 @@ Reference 1: http://fasb.org/us-gaap/role/ref/otherTransitionRef
  -Paragraph 1
  -URI http://asc.fasb.org/extlink&oid=77902758&loc=d3e41499-112717
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Tabular disclosure of allocation of amount expensed and capitalized for award under share-based payment arrangement to statement of income or comprehensive income and statement of financial position. Includes, but is not limited to, corresponding line item in financial statement.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4105,10 +3785,8 @@ Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (b)
  -URI http://asc.fasb.org/extlink&oid=116856206&loc=d3e5047-113901
 
-Paragraph:
 Tabular disclosure of the changes in outstanding nonvested restricted stock units.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4119,13 +3797,10 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (c)(2)
  -URI http://asc.fasb.org/extlink&oid=116856206&loc=d3e5070-113901
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Tabular disclosure of an entity's basic and diluted earnings per share calculations, including a reconciliation of numerators and denominators of the basic and diluted per-share computations for income from continuing operations.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4135,13 +3810,10 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Paragraph 1
  -URI http://asc.fasb.org/extlink&oid=6371337&loc=d3e3550-109257
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Tabular disclosure of the components of income tax expense attributable to continuing operations for each year presented including, but not limited to: current tax expense (benefit), deferred tax expense (benefit), investment tax credits, government grants, the benefits of operating loss carryforwards, tax expense that results from allocating certain tax benefits either directly to contributed capital or to reduce goodwill or other noncurrent intangible assets of an acquired entity, adjustments of a deferred tax liability or asset for enacted changes in tax laws or rates or a change in the tax status of the entity, and adjustments of the beginning-of-the-year balances of a valuation allowance because of a change in circumstances that causes a change in judgment about the realizability of the related deferred tax asset in future years.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4151,10 +3823,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Paragraph 9
  -URI http://asc.fasb.org/extlink&oid=84230637&loc=d3e32639-109319
 
-Paragraph:
 Tabular disclosure of the components of net deferred tax asset or liability recognized in an entity's statement of financial position, including the following: the total of all deferred tax liabilities, the total of all deferred tax assets, the total valuation allowance recognized for deferred tax assets.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4164,10 +3834,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Paragraph 2
  -URI http://asc.fasb.org/extlink&oid=84230637&loc=d3e32537-109319
 
-Paragraph:
 Tabular disclosure of the reconciliation using percentage or dollar amounts of the reported amount of income tax expense attributable to continuing operations for the year to the amount of income tax expense that would result from applying domestic federal statutory tax rates to pretax income from continuing operations.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4177,10 +3845,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Paragraph 12
  -URI http://asc.fasb.org/extlink&oid=84230637&loc=d3e32687-109319
 
-Paragraph:
 Tabular disclosure of unrecognized tax benefits for which a material change is reasonably possible in the next twelve months, typically including the nature of the uncertainty, the event(s) that could cause a material change, and an estimate of the range of the reasonably possible change or a statement that an estimate of the range cannot be made. An unrecognized tax benefit is the difference between a tax position taken in a tax return and the amounts recognized in the financial statements for which it is more likely than not, based on the technical merits of the position, that the tax position will not be sustained upon examination.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4191,10 +3857,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (d)
  -URI http://asc.fasb.org/extlink&oid=84230637&loc=d3e32718-109319
 
-Paragraph:
 Amount of gain (loss) from the increase (decrease) in fair value of derivative and nonderivative instruments designated as fair value hedging instruments recognized in the income statement.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4205,10 +3869,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (a)(1)
  -URI http://asc.fasb.org/extlink&oid=109977999&loc=d3e76258-113986
 
-Paragraph:
 Amount of the increase (decrease) in fair value of the hedged item in a fair value hedge recognized in the income statement.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4219,16 +3881,12 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (a)(1)
  -URI http://asc.fasb.org/extlink&oid=109977999&loc=d3e76258-113986
 
-Paragraph:
 Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 The effective portion of net gain (loss) reclassified from accumulated other comprehensive income into income on derivative instruments designated and qualifying as hedging instruments.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4248,10 +3906,8 @@ Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (c)
  -URI http://asc.fasb.org/extlink&oid=109980867&loc=SL5624171-113959
 
-Paragraph:
 Amount before tax of increase (decrease) in accumulated gain (loss) from derivative instruments designated and qualifying as the effective portion of cash flow hedges and an entity's share of an equity investee's increase (decrease) in deferred hedging gain (loss).
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4278,52 +3934,36 @@ Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (d)
  -URI http://asc.fasb.org/extlink&oid=118930883&loc=SL7669646-108580
 
-Paragraph:
 The aggregate fair value of assets that are already received, at the end of the reporting period, as collateral for derivative instruments.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 The potential effects of rights of set-off associated with the Company's derivative contracts, including the effects of collateral, which would result in a reduction to derivative assets.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 The potential effects of rights of set-off associated with the Company's derivative contracts, including the effects of collateral, which would result in a reduction to derivative liabilities.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Financial Instruments [Line Items]
 
-Paragraph:
 No definition available.
 
-Paragraph:
 General maturity period (in years) of the Company's long-term marketable securities.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Number Of Customers With Significant Accounts Receivable Balance
 
-Paragraph:
 No definition available.
 
-Paragraph:
 The number of vendors representing a significant portion of non-trade receivables.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 The aggregate fair value of assets that are already posted, at the end of the reporting period, as collateral for derivative instruments with credit-risk-related contingent features.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4334,10 +3974,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (d)
  -URI http://asc.fasb.org/extlink&oid=109980867&loc=SL5624258-113959
 
-Paragraph:
 For an entity that discloses a concentration risk in relation to quantitative amount, which serves as the "benchmark" (or denominator) in the equation, this concept represents the concentration percentage derived from the division.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4372,10 +4010,8 @@ Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
  -Paragraph 20
  -URI http://asc.fasb.org/extlink&oid=99393423&loc=d3e6404-108592
 
-Paragraph:
 Fair value of the assets less the liabilities of a derivative or group of derivatives.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4385,10 +4021,8 @@ Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Paragraph 10
  -URI http://asc.fasb.org/extlink&oid=118260190&loc=d3e13433-108611
 
-Paragraph:
 Amount of investment in equity security without readily determinable fair value.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4399,10 +4033,8 @@ Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Subparagraph (a)
  -URI http://asc.fasb.org/extlink&oid=116654751&loc=SL75117539-209714
 
-Paragraph:
 Net gain (loss) relating to components of the gain (loss) on the fair value hedging instrument excluded from the assessment of fair value hedge effectiveness. Recognized in earnings.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4422,10 +4054,8 @@ Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (a)(2)
  -URI http://asc.fasb.org/extlink&oid=109977999&loc=d3e76258-113986
 
-Paragraph:
 Maximum period of time the entity is hedging its exposure to variability in future cash flows for forecasted transactions, in 'PnYnMnDTnHnMnS' format, for example, 'P1Y5M13D' represents the reported fact of one year, five months, and thirteen days. Excludes forecasted transactions related to payment of variable interest on existing financial instruments.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4436,10 +4066,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (d)
  -URI http://asc.fasb.org/extlink&oid=112277219&loc=d3e80748-113994
 
-Paragraph:
 Maximum period the entity is hedging its exposure to the variability in future cash flows for forecasted transactions, excluding those forecasted transactions related to the payment of variable interest on existing financial instruments, in 'PnYnMnDTnHnMnS' format, for example, 'P1Y5M13D' represents the reported fact of one year, five months, and thirteen days.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4450,10 +4078,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (d)
  -URI http://asc.fasb.org/extlink&oid=112277219&loc=d3e80748-113994
 
-Paragraph:
 Amount of the cost of borrowed funds accounted for as interest expense.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4499,10 +4125,8 @@ Reference 5: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (SX 210.9-04.9)
  -URI http://asc.fasb.org/extlink&oid=116637391&loc=SL114874048-224260
 
-Paragraph:
 Amount before accretion (amortization) of purchase discount (premium) of interest income and dividend income on nonoperating securities.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4513,10 +4137,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (SX 210.5-03.7(a),(b))
  -URI http://asc.fasb.org/extlink&oid=116634182&loc=SL114868664-224227
 
-Paragraph:
 The aggregate amount of income or expense from ancillary business-related activities (that is to say, excluding major activities considered part of the normal operations of the business).
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4527,13 +4149,10 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (SX 210.5-03.7)
  -URI http://asc.fasb.org/extlink&oid=116634182&loc=SL114868664-224227
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Amount of income (expense) related to nonoperating activities, classified as other.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4544,10 +4163,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (SX 210.5-03.9)
  -URI http://asc.fasb.org/extlink&oid=116634182&loc=SL114868664-224227
 
-Paragraph:
 The number of equity-based payment instruments, excluding stock (or unit) options, that were forfeited during the reporting period.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4558,10 +4175,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (c)(1)(iv)(3)
  -URI http://asc.fasb.org/extlink&oid=116856206&loc=d3e5070-113901
 
-Paragraph:
 Weighted average fair value as of the grant date of equity-based award plans other than stock (unit) option plans that were not exercised or put into effect as a result of the occurrence of a terminating event.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4572,10 +4187,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (c)(2)(iii)(3)
  -URI http://asc.fasb.org/extlink&oid=116856206&loc=d3e5070-113901
 
-Paragraph:
 The number of grants made during the period on other than stock (or unit) option plans (for example, phantom stock or unit plan, stock or unit appreciation rights plan, performance target plan).
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4586,10 +4199,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (c)(2)(iii)(1)
  -URI http://asc.fasb.org/extlink&oid=116856206&loc=d3e5070-113901
 
-Paragraph:
 The weighted average fair value at grant date for nonvested equity-based awards issued during the period on other than stock (or unit) option plans (for example, phantom stock or unit plan, stock or unit appreciation rights plan, performance target plan).
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4600,10 +4211,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (c)(2)(iii)(1)
  -URI http://asc.fasb.org/extlink&oid=116856206&loc=d3e5070-113901
 
-Paragraph:
 The number of non-vested equity-based payment instruments, excluding stock (or unit) options, that validly exist and are outstanding as of the balance sheet date.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4614,16 +4223,12 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (c)(2)(i)-(ii)
  -URI http://asc.fasb.org/extlink&oid=116856206&loc=d3e5070-113901
 
-Paragraph:
 A roll forward is a reconciliation of a concept from the beginning of a period to the end of a period.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Per share or unit weighted-average fair value of nonvested award under share-based payment arrangement. Excludes share and unit options.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4634,16 +4239,12 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (c)(2)(i)-(ii)
  -URI http://asc.fasb.org/extlink&oid=116856206&loc=d3e5070-113901
 
-Paragraph:
 A roll forward is a reconciliation of a concept from the beginning of a period to the end of a period.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 The number of equity-based payment instruments, excluding stock (or unit) options, that vested during the reporting period.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4654,10 +4255,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (c)(2)(iii)(2)
  -URI http://asc.fasb.org/extlink&oid=116856206&loc=d3e5070-113901
 
-Paragraph:
 The weighted average fair value as of grant date pertaining to an equity-based award plan other than a stock (or unit) option plan for which the grantee gained the right during the reporting period, by satisfying service and performance requirements, to receive or retain shares or units, other instruments, or cash in accordance with the terms of the arrangement.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4668,19 +4267,14 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (c)(2)(iii)(2)
  -URI http://asc.fasb.org/extlink&oid=116856206&loc=d3e5070-113901
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Intrinsic value of nonvested award under share-based payment arrangement. Excludes share and unit options.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Amount of required minimum rental payments for leases having an initial or remaining non-cancelable letter-terms in excess of one year.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/otherTransitionRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4700,13 +4294,10 @@ Reference 2: http://fasb.org/us-gaap/role/ref/otherTransitionRef
  -Subparagraph (Note 3)
  -URI http://asc.fasb.org/extlink&oid=82846649&loc=d3e38371-112697
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Amount of required minimum rental payments for operating leases having an initial or remaining non-cancelable lease term in excess of one year due in the next fiscal year following the latest fiscal year. Excludes interim and annual periods when interim periods are reported on a rolling approach, from latest balance sheet date.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/otherTransitionRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4726,10 +4317,8 @@ Reference 2: http://fasb.org/us-gaap/role/ref/otherTransitionRef
  -Subparagraph (Note 3)
  -URI http://asc.fasb.org/extlink&oid=82846649&loc=d3e38371-112697
 
-Paragraph:
 Amount of required minimum rental payments for operating leases having an initial or remaining non-cancelable lease term in excess of one year due in the fifth fiscal year following the latest fiscal year. Excludes interim and annual periods when interim periods are reported on a rolling approach, from latest balance sheet date.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/otherTransitionRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4749,10 +4338,8 @@ Reference 2: http://fasb.org/us-gaap/role/ref/otherTransitionRef
  -Subparagraph (Note 3)
  -URI http://asc.fasb.org/extlink&oid=82846649&loc=d3e38371-112697
 
-Paragraph:
 Amount of required minimum rental payments for operating leases having an initial or remaining non-cancelable lease term in excess of one year due in the fourth fiscal year following the latest fiscal year. Excludes interim and annual periods when interim periods are reported on a rolling approach, from latest balance sheet date.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/otherTransitionRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4772,10 +4359,8 @@ Reference 2: http://fasb.org/us-gaap/role/ref/otherTransitionRef
  -Subparagraph (Note 3)
  -URI http://asc.fasb.org/extlink&oid=82846649&loc=d3e38371-112697
 
-Paragraph:
 Amount of required minimum rental payments for operating leases having an initial or remaining non-cancelable lease term in excess of one year due in the third fiscal year following the latest fiscal year. Excludes interim and annual periods when interim periods are reported on a rolling approach, from latest balance sheet date.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/otherTransitionRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4795,10 +4380,8 @@ Reference 2: http://fasb.org/us-gaap/role/ref/otherTransitionRef
  -Subparagraph (a)
  -URI http://asc.fasb.org/extlink&oid=77902758&loc=d3e41502-112717
 
-Paragraph:
 Amount of required minimum rental payments for operating leases having an initial or remaining non-cancelable lease term in excess of one year due in the second fiscal year following the latest fiscal year. Excludes interim and annual periods when interim periods are reported on a rolling approach, from latest balance sheet date.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/otherTransitionRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4818,10 +4401,8 @@ Reference 2: http://fasb.org/us-gaap/role/ref/otherTransitionRef
  -Subparagraph (Note 3)
  -URI http://asc.fasb.org/extlink&oid=82846649&loc=d3e38371-112697
 
-Paragraph:
 Amount of required minimum rental payments for operating leases having an initial or remaining non-cancelable lease term in excess of one year due after the fifth fiscal year following the latest fiscal year. Excludes interim and annual periods when interim periods are reported on a rolling approach, from latest balance sheet date.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/otherTransitionRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4841,16 +4422,12 @@ Reference 2: http://fasb.org/us-gaap/role/ref/otherTransitionRef
  -Subparagraph (a)
  -URI http://asc.fasb.org/extlink&oid=77902758&loc=d3e41502-112717
 
-Paragraph:
 Shares of stock issued during the period as a result of any share-based compensation plan other than an employee stock ownership plan (ESOP), net of shares withheld for employee taxes.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Number of shares of common stock outstanding. Common stock represent the ownership interest in a corporation.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4869,16 +4446,12 @@ Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (SX 210.5-02(29))
  -URI http://asc.fasb.org/extlink&oid=6877327&loc=d3e13212-122682
 
-Paragraph:
 A roll forward is a reconciliation of a concept from the beginning of a period to the end of a period.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Number of shares that have been repurchased and retired during the period.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4915,10 +4488,8 @@ Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
  -Paragraph 2
  -URI http://asc.fasb.org/extlink&oid=109259400&loc=d3e21463-112644
 
-Paragraph:
 Percentage of current income tax expense (benefit) and deferred income tax expense (benefit) pertaining to continuing operations.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4945,10 +4516,8 @@ Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
  -Paragraph 13
  -URI http://asc.fasb.org/extlink&oid=84230637&loc=d3e32698-109319
 
-Paragraph:
 Amount of difference between reported income tax expense (benefit) and expected income tax expense (benefit) computed by applying domestic federal statutory income tax rate to pretax income (loss) from continuing operation, attributable to expense for award under share-based payment arrangement. Excludes expense determined to be nondeductible upon grant or after for award under share-based payment arrangement.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2009/role/commonPracticeRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4966,10 +4535,8 @@ Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
  -Paragraph 2
  -URI http://asc.fasb.org/extlink&oid=117330312&loc=d3e23163-113944
 
-Paragraph:
 Amount of reported income tax expense (benefit) in excess of (less than) expected income tax expense (benefit) computed by applying domestic federal statutory income tax rate to pretax income (loss) from continuing operations, attributable to Tax Cuts and Jobs Act.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2009/role/commonPracticeRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -4979,13 +4546,10 @@ Reference 1: http://www.xbrl.org/2009/role/commonPracticeRef
  -Paragraph 12
  -URI http://asc.fasb.org/extlink&oid=84230637&loc=d3e32687-109319
 
-Paragraph:
 No definition available.
 
-Paragraph:
 Amount of current income tax expense (benefit) and deferred income tax expense (benefit) pertaining to continuing operations.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2003/role/disclosureRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -5014,10 +4578,8 @@ Reference 3: http://www.xbrl.org/2003/role/disclosureRef
  -Subparagraph (a)
  -URI http://asc.fasb.org/extlink&oid=109238882&loc=d3e38679-109324
 
-Paragraph:
 Amount of the difference between reported income tax expense (benefit) and expected income tax expense (benefit) computed by applying the domestic federal statutory income tax rates to pretax income (loss) from continuing operations attributable to foreign income tax expense (benefit).
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -5044,10 +4606,8 @@ Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (SX 210.4-08(h)(1))
  -URI http://asc.fasb.org/extlink&oid=26873400&loc=d3e23780-122690
 
-Paragraph:
 The amount of income tax expense or benefit for the period computed by applying the domestic federal statutory tax rates to pretax income from continuing operations.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -5074,10 +4634,8 @@ Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (SX 210.4-08(h)(2))
  -URI http://asc.fasb.org/extlink&oid=26873400&loc=d3e23780-122690
 
-Paragraph:
 Amount of the difference between reported income tax expense (benefit) and expected income tax expense (benefit) computed by applying the domestic federal statutory income tax rates to pretax income (loss) from continuing operations attributable to other adjustments.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -5087,10 +4645,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Paragraph 12
  -URI http://asc.fasb.org/extlink&oid=84230637&loc=d3e32687-109319
 
-Paragraph:
 Amount of the difference between reported income tax expense (benefit) and expected income tax expense (benefit) computed by applying the domestic federal statutory income tax rates to pretax income (loss) from continuing operations attributable to state and local income tax expense (benefit).
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -5117,10 +4673,8 @@ Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
  -Paragraph 13
  -URI http://asc.fasb.org/extlink&oid=84230637&loc=d3e32698-109319
 
-Paragraph:
 Amount of the difference between reported income tax expense (benefit) and expected income tax expense (benefit) computed by applying the domestic federal statutory income tax rates to pretax income (loss) from continuing operations attributable to research tax credit.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -5138,10 +4692,8 @@ Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
  -Paragraph 12
  -URI http://asc.fasb.org/extlink&oid=84230637&loc=d3e32687-109319
 
-Paragraph:
 The net cash inflow or cash outflow from issuing (borrowing) and repaying commercial paper.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2009/role/commonPracticeRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -5170,10 +4722,8 @@ Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
  -Subparagraph (b)
  -URI http://asc.fasb.org/extlink&oid=118932676&loc=d3e3291-108585
 
-Paragraph:
 The cash inflow from a borrowing net of the cash outflow from repayment of a borrowing having initial term of repayment of more than three months but less than one year or one operating cycle (if the normal cycle is more than one year).
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2009/role/commonPracticeRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -5184,13 +4734,10 @@ Reference 1: http://www.xbrl.org/2009/role/commonPracticeRef
  -Subparagraph (SX 210.12-04(a))
  -URI http://asc.fasb.org/extlink&oid=26873400&loc=d3e24072-122690
 
-Paragraph:
 No definition available.
 
-Paragraph:
 The cash inflow from a borrowing net of the cash outflow from repayment of a borrowing having initial term of repayment within three months.
 
-Paragraph:
 Reference 1: http://www.xbrl.org/2009/role/commonPracticeRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -5219,13 +4766,10 @@ Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
  -Subparagraph (c)
  -URI http://asc.fasb.org/extlink&oid=118932676&loc=d3e3098-108585
 
-Paragraph:
 No definition available.
 
-Paragraph:
 The cash inflow from a borrowing having initial term of repayment of more than three months but less than one year or one operating cycle (if the normal cycle is more than one year).
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -5236,10 +4780,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (b)
  -URI http://asc.fasb.org/extlink&oid=118932676&loc=d3e3255-108585
 
-Paragraph:
 The cash outflow from a repayment of a borrowing having initial term of repayment of more than three months but less than one year or one operating cycle (if the normal cycle is more than one year).
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -5250,10 +4792,8 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (b)
  -URI http://asc.fasb.org/extlink&oid=118932676&loc=d3e3291-108585
 
-Paragraph:
 Long-lived assets other than financial instruments, long-term customer relationships of a financial institution, mortgage and other servicing rights, deferred policy acquisition costs, and deferred tax assets.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
@@ -5264,39 +4804,30 @@ Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Subparagraph (b)
  -URI http://asc.fasb.org/extlink&oid=115929826&loc=d3e9038-108599
 
-Paragraph:
 Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 No definition available.
 
-Paragraph:
 The entire disclosure for the basis of presentation and significant accounting policies concepts. Basis of presentation describes the underlying basis used to prepare the financial statements (for example, US Generally Accepted Accounting Principles, Other Comprehensive Basis of Accounting, IFRS).  Accounting policies describe all significant accounting policies of the reporting entity.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
  -Topic 235
  -URI http://asc.fasb.org/topic&trid=2122369
 
-Paragraph:
 No definition available.
 
-Paragraph:
 The entire disclosure for information about short-term and long-term debt arrangements, which includes amounts of borrowings under each line of credit, note payable, commercial paper issue, bonds indenture, debenture issue, own-share lending arrangements and any other contractual agreement to repay funds, and about the underlying arrangements, rationale for a classification as long-term, including repayment terms, interest rates, collateral provided, restrictions on use of assets and activities, whether or not in compliance with debt covenants, and other matters important to users of the financial statements, such as the effects of refinancing and noncompliance with debt covenants.
 
-Paragraph:
 Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
  -Publisher FASB
  -Name Accounting Standards Codification
  -Topic 470
  -URI http://asc.fasb.org/topic&trid=2208564
 
-Paragraph:
 SNZ\+ V_UMF=XZ/=H3KZ%*NCCX^.
 MAQ,LPPF6 Z/M@1I/G "&HQ^'(MUZ=/1CQ]1=:^J_AUJCMD^E?WZ&.
 ]Q&-_GXPZ+S/M3??0T+#1C]DMHV!^Q]^@VA-JE5AMQ
@@ -10541,7 +10072,6 @@ M;@6Z;@-2\KD.L W/Z(I H(
 >8;%T](&>TVR\6&>682)>,*?(#>KZ,XAD?SGRA0JFIV:'_EY"?'HOX>M5
 MLW?F$!W'
 
-Paragraph:
 R!(P<=.3!EGW3DIE[O$=TE
 M>!#,?2SJ=H
 )]8\S>(I2=+J_,#?
@@ -15774,7 +15304,6 @@ M;@6Z;@-2\KD.L W/Z(I H(
 >8;%T](&>TVR\6&>682)>,*?(#>KZ,XAD?SGRA0JFIV:'_EY"?'HOX>M5
 MLW?F$!W'
 
-Paragraph:
 CJK
 G SH1P&D[KAG"P@;D["^N&GB"2WCS05#>/HR71V
 M-ACFS28>+6K&9_57"BK++8,+KL\,LE#K@XGAG&7R7'D<;4H[9T"M>;D7EEM@
@@ -20637,7 +20166,6 @@ M;@6Z;@-2\KD.L W/Z(I H(
 >8;%T](&>TVR\6&>682)>,*?(#>KZ,XAD?SGRA0JFIV:'_EY"?'HOX>M5
 MLW?F$!W'
 
-Paragraph:
 EX*E#<%+%F$+$GN>0)3I^N[+KS/;3QP>^]08O1;3M-[&P!%16.*BBA(=!
 CE(%+5T(,=C RL9R.9R#CO4H8:7-.7AI/*2#8E@-,
 VO6>F?YN
@@ -25496,7 +25024,6 @@ M;@6Z;@-2\KD.L W/Z(I H(
 >8;%T](&>TVR\6&>682)>,*?(#>KZ,XAD?SGRA0JFIV:'_EY"?'HOX>M5
 MLW?F$!W'
 
-Paragraph:
 &'4W@#,10LP2P##O+6
 MW=^J)T+(@5=Y\/B+>RN)W;^\@7,V3B_:PUEG=->?3J>3WJ [=<=3M_7/Y?T;
 MRPG29Z\1(QZ/=Z\%*V$H9CX3S^&=YGW)&O/K+_OV.S7$@B*6GT$JY^UA6Q
@@ -26321,7 +25848,6 @@ SI6G8W>I\L"(I_VVB;-
 M65O.VNJ3MUCK]XL2S!7"6 B*>:1 $$9)Q5N0*KZ9\;
 R+MWIS
 
-Paragraph:
 "H#!T8$*(7:_JF)/S$2L([;;L_/IV:\#.0WH;9CI?9>G9O](J"
 M#<-LAMD,LVW=^-H>]>IH^,UD-H-V4K'''U;
 \(D3YP?
@@ -26911,7 +26437,6 @@ SI6G8W>I\L"(I_VVB;-
 M65O.VNJ3MUCK]XL2S!7"6 B*>:1 $$9)Q5N0*KZ9\;
 R+MWIS
 
-Paragraph:
 <$=IP0[
 MZG+4]3!U">"BX8ZV]D-;S(64'6GM2>="OD3\F,C+18NV18ML?Z-M%LS9VN38
 MYV07=6]X)KES'ITTH2(?<>@(U1'JT F5\EV2N!R9.C(]K$KKP-11Z>"IE/D,
@@ -27383,7 +26908,6 @@ SI6G8W>I\L"(I_VVB;-
 M65O.VNJ3MUCK]XL2S!7"6 B*>:1 $$9)Q5N0*KZ9\;
 R+MWIS
 
-Paragraph:
 13&(*SE+E&(\Y=E
 MS?Y\T\B7 #O6=*PY;-84L)T$3X1*)","
 ;IBZAV7-_MS=
@@ -27646,7 +27170,6 @@ SI6G8W>I\L"(I_VVB;-
 M65O.VNJ3MUCK]XL2S!7"6 B*>:1 $$9)Q5N0*KZ9\;
 R+MWIS
 
-Paragraph:
 ,9J:? "/8QZC-5;."B
 M[=P,_$@O3E/0V"NR+]ET<8>![VJ1&];MY'%C&$'%.%41HU1A(B,(&VV5,,8V
 MQN3.3&_JT?P?^?PZ7)1ZE2TG?]_[B$V?HEY[V0Y.=3UGZ]CQ9\.?''0RH[1^
@@ -27787,7 +27310,6 @@ SI6G8W>I\L"(I_VVB;-
 M65O.VNJ3MUCK]XL2S!7"6 B*>:1 $$9)Q5N0*KZ9\;
 R+MWIS
 
-Paragraph:
 6XE?,
 E1J/*HYJ-O=E<[Y@^^IO;(KO.IJ4)'%?MXW[^
 M:3(KRS\]M\'^*>O09[MP=_KN],_Y]$]Y2'#O3?R/)(+Y8':AA&WOM! *+!$.
@@ -27835,7 +27357,6 @@ SI6G8W>I\L"(I_VVB;-
 M65O.VNJ3MUCK]XL2S!7"6 B*>:1 $$9)Q5N0*KZ9\;
 R+MWIS
 
-Paragraph:
 3B
 M9@<^5AOP*B(Q',I>S^W34Y6C0>Q,N'T;LU/8*4VCDK)W!F.6) @;H*&I)0 L
 M#=S!2;6=V7N3S.70SR*ZIB*/G@&/=@Q5 'LE&@FM*37^"P6@:N(IH4KP1D'Q
@@ -27875,7 +27396,6 @@ MDT/8,CE(N&!&"B,0@]@KUTUFM060&8W[8/+^;.U#P2.31R:/3+X#D^.6R1,M
 M'4P4"?(_1%)+G-BF]!:Q=KMG;0
 FQ>#2OK\6,[TO
 
-Paragraph:
 %B73DQ^V6,;Y$AVQ6S_Z5/+:\><2I/1Y-
 M\K.KO)@51.!/K?MO%N_^^@..9J#ES>OI"P<2NI@N R>^#KQ>&SS0Q?;\\RY6
 M8RN]'E: #L%-?2W%-( $.D<\#1@&@J)'ZOI:SL#GUN]]HB^\"WL.@0,H=I=O
@@ -28116,10 +27636,8 @@ B\)N[JXT-Z74VV@33&/WZ:QET;CM7D
 MPLSRBU%IE[L.B[R8_WSY\W(Q7PPGD:D;&OQE.A\5=&9'\_/Q=+Z
 D,69(] X+I F2FA  D?),O+8<:DL%V>-V=)JJ
 
-Paragraph:
 
 
-Paragraph:
 *BSMJ
 MR0C2RVXK"'EL/")L])Y@'\/\[F.8,6EY64(61R+6F"9API-0,X*JX\0(QU%\
 M1#',QZ(^$]0#PL
@@ -30155,7 +29673,6 @@ M;@6Z;@-2\KD.L W/Z(I H(
 >8;%T](&>TVR\6&>682)>,*?(#>KZ,XAD?SGRA0JFIV:'_EY"?'HOX>M5
 MLW?F$!W'
 
-Paragraph:
 ?AZWAN
 M<6K9]1#97KKCZ2A/#5YDOYDEZUF7H+'O2Q^4[=QZ8_U^XR ;_7-L7K,8KY,/
 M9;9CZ7!HYFJNGJ1&HQP_I$,W[DI*NT9]@P68/2P>=AE\&B\^7#@?@[F@O/^A
@@ -32035,7 +31552,6 @@ M;@6Z;@-2\KD.L W/Z(I H(
 >8;%T](&>TVR\6&>682)>,*?(#>KZ,XAD?SGRA0JFIV:'_EY"?'HOX>M5
 MLW?F$!W'
 
-Paragraph:
 \6P]%(@/-"88@PF"/M4<%XL?8C# "&?;?
 M8WQ_,P'H48U*,(R3F3X44&_H^:C[%[!&H9RF;N#>\1\VI0LNA@L_@OD \)2Q
 M&YD=SKVBBJ=5CJ=0%BCF7$O'3>DO$>5RI9G0PB7C
@@ -33690,7 +33206,6 @@ M;@6Z;@-2\KD.L W/Z(I H(
 >8;%T](&>TVR\6&>682)>,*?(#>KZ,XAD?SGRA0JFIV:'_EY"?'HOX>M5
 MLW?F$!W'
 
-Paragraph:
 6>X;_[@O3J8/E'
 MT&DQ5J1VQE[#XD7GW9?Y3'+UV""6MS+6%#EB:EM@]5$3Z9%FU>B-6D?R>ZO
 M:'H/T :.I\G%M4 KANO?7IE62^^^4:!$JP$60-B3*_+8A &NE])
@@ -34692,19 +34207,14 @@ M;@6Z;@-2\KD.L W/Z(I H(
 >8;%T](&>TVR\6&>682)>,*?(#>KZ,XAD?SGRA0JFIV:'_EY"?'HOX>M5
 MLW?F$!W'
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 8Y'@+TQX4]W5VFN@H=,5+V]C8;+6*<]>ZUN3W>
 M^%2DL_EM5EP7D]'N>^,^/IM JRQ"T@1#F@ <'\;$N$3/:%K_N+*S9)RN!7>
 ML \[@CHL. (E18PPC!#@P)K2UL%0X?IQ"IVE]O2E^YK@U!?/[>3K9)S-QH?X
@@ -35281,7 +34791,6 @@ M;@6Z;@-2\KD.L W/Z(I H(
 >8;%T](&>TVR\6&>682)>,*?(#>KZ,XAD?SGRA0JFIV:'_EY"?'HOX>M5
 MLW?F$!W'
 
-Paragraph:
 "462$L@-8Y
 M4L8[,BYU_> S> D'5TVPZ'@YNF^C^W1VEQTXB-S5-!$L.&/2<* 0
 +M%A=>12'4T)?M4TLP98!
@@ -35825,7 +35334,6 @@ M;@6Z;@-2\KD.L W/Z(I H(
 >8;%T](&>TVR\6&>682)>,*?(#>KZ,XAD?SGRA0JFIV:'_EY"?'HOX>M5
 MLW?F$!W'
 
-Paragraph:
 8+*\0@D'P0!276^[9J^&80=*@^%EM@.?358E"_IDJ^2DJ2+)FW=
 F?*YKKT/S9O#V[]WX.
 MEEE5ODLH/Z*TW.[S\E DQYK%C#!$-N'8T"U@ =\T/5O'GD.^XUF052RFF% G
@@ -36003,7 +35511,6 @@ M;@6Z;@-2\KD.L W/Z(I H(
 >8;%T](&>TVR\6&>682)>,*?(#>KZ,XAD?SGRA0JFIV:'_EY"?'HOX>M5
 MLW?F$!W'
 
-Paragraph:
 +-NI7&F#9>N;,7V@]PVQ(&D(?(O3
 M/7TP\3XO;LAW;Y(MO;$B3
 M9OT(4OOTVU,RMMCB$FNKY*'O'CF
@@ -36048,1561 +35555,1042 @@ M;@6Z;@-2\KD.L W/Z(I H(
 >8;%T](&>TVR\6&>682)>,*?(#>KZ,XAD?SGRA0JFIV:'_EY"?'HOX>M5
 MLW?F$!W'
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
-Paragraph:
 
 
 Table:

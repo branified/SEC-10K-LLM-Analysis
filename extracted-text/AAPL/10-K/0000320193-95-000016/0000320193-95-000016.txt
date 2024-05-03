@@ -1,4 +1,3 @@
-Paragraph:
 -----BEGIN PRIVACY-ENHANCED MESSAGE-----
 Proc-Type: 2001,MIC-CLEAR
 Originator-Name: webmaster@www.sec.gov
