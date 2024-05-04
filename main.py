@@ -1,176 +1,7 @@
 from sec_edgar_downloader import Downloader
-import re
-from bs4 import BeautifulSoup
 import os
-
-def risk_factor_extract(input_file):
-    # Read the content of the text file
-    with open(input_file, "r", encoding="utf-8") as file:
-        file_content = file.read()
-
-    # Extract the company name and filing ID from the input file path
-    _, company_name, _, filing_id, _ = input_file.split(os.path.sep)
-
-    # Create the output directory if it doesn't exist
-    insights_dir = os.path.join("insights", "risk-factors")
-    os.makedirs(insights_dir, exist_ok=True)
-
-    if company_name == "MSFT":
-        # Use regular expressions to find the text between "Item 1A" and "Item 1B"
-        match = re.search(r'ITEM\s+1A\.\s*RIS.*?K\s+FACTORS(.*?)ITEM\s+1B', file_content, re.DOTALL)
-
-    elif company_name == "AAPL":
-        match = re.search(r'Item\s+1A\.\s*(.*?)Item\s+1B', file_content, re.DOTALL)
-
-    # Create the output file path
-    output_file_path = os.path.join(insights_dir, f"{company_name}_risk_factor_insights.txt")
-
-    if match:
-        text_between_items = match.group(1).strip()
-
-        # Write the risk factor text to the output file
-        with open(output_file_path, "a", encoding="utf-8") as output_file:
-            output_file.write(f"---{filing_id}---\n")
-            output_file.write(text_between_items + "\n\n")
-    else:
-        # Write the error message to the output file
-        with open(output_file_path, "a", encoding="utf-8") as output_file:
-            output_file.write(f"No risk factor found for {company_name} - {filing_id}\n")
-
-def revenue_trends_extract(input_file):
-    # Read the content of the text file
-    with open(input_file, "r", encoding="utf-8") as file:
-        file_content = file.read()
-
-    # Extract the company name and filing ID from the input file path
-    _, company_name, _, filing_id, _ = input_file.split(os.path.sep)
-
-    # Create the output directory if it doesn't exist
-    insights_dir = os.path.join("insights", "revenue-trends")
-    os.makedirs(insights_dir, exist_ok=True)
-
-    if company_name == "MSFT":
-        # Use regular expressions to find the text between "Item 1A" and "Item 1B"
-        match = re.search(r'ITEM\s+8\.\s*FINANCIAL\s+STATEMENTS\s+AND\s+SUPPLEMENTARY\s+DATA(.*?)Item\s+9\.', file_content, re.DOTALL)
-    elif company_name == "AAPL":
-        match = re.search(r'Item\s+8\.\s+Financial\s+Statements\s+and\s+Supplementary\s+Data(.*?)Item\s+9\.', file_content, re.DOTALL)
-
-    # Create the output file path
-    output_file_path = os.path.join(insights_dir, f"{company_name}_revenue_trends_insights.txt")
-
-    if match:
-        text_between_items = match.group(1).strip()
-
-        # Write the risk factor text to the output file
-        with open(output_file_path, "a", encoding="utf-8") as output_file:
-            output_file.write(f"---{filing_id}---\n")
-            output_file.write(text_between_items + "\n\n")
-    else:
-        # Write the error message to the output file
-        with open(output_file_path, "a", encoding="utf-8") as output_file:
-            output_file.write(f"No revenue trends found for {company_name} - {filing_id}\n")
-
-def management_analysis_extract(input_file):
-    # Read the content of the text file
-    with open(input_file, "r", encoding="utf-8") as file:
-        file_content = file.read()
-
-    # Extract the company name and filing ID from the input file path
-    _, company_name, _, filing_id, _ = input_file.split(os.path.sep)
-
-    # Create the output directory if it doesn't exist
-    insights_dir = os.path.join("insights", "management-analysis")
-    os.makedirs(insights_dir, exist_ok=True)
-
-    if company_name == "MSFT":
-        # Use regular expressions to find the text between "Item 1A" and "Item 1B"
-        match = re.search(r'ITEM\s+7\.\s*MANAGEMENT’S\s+DISCUSSION\s+AND\s+ANALYSIS\s+OF\s+FINANCIAL\s+CONDITION\s+AND\s+RESULTS\s+OF\s+OPERATIONS(.*?)Item\s+8\.', file_content, re.DOTALL)
-    elif company_name == "AAPL":
-        match = re.search(r'Item\s+7\.\s*Management\s*[’\']s\s+Discussion\s+and\s+Analysis\s+of\s+Financial\s+Condition\s+and\s+Results\s+of\s+Operations(.*?)Item\s+8\.', file_content, re.DOTALL)
-
-    # Create the output file path
-    output_file_path = os.path.join(insights_dir, f"{company_name}_revenue_trends_insights.txt")
-
-    if match:
-        text_between_items = match.group(1).strip()
-
-        # Write the risk factor text to the output file
-        with open(output_file_path, "a", encoding="utf-8") as output_file:
-            output_file.write(f"---{filing_id}---\n")
-            output_file.write(text_between_items + "\n\n")
-    else:
-        # Write the error message to the output file
-        with open(output_file_path, "a", encoding="utf-8") as output_file:
-            output_file.write(f"No revenue trends found for {company_name} - {filing_id}\n")
-
-def html_to_text(input_file):
-    # Extract company name, filing type, and filing ID from the input file path
-    _, company_name, filing_type, filing_id, _ = input_file.split(os.path.sep)
-    print(filing_id)
-
-    with open(input_file, "r", encoding="utf-8") as file:
-        html_content = file.read()
-
-    # Parse HTML using BeautifulSoup
-    soup = BeautifulSoup(html_content, 'lxml')
-    print("Parsing HTML\n")
-    # Extract text content
-    text_content = []
-
-    # Extract paragraphs
-    paragraphs = soup.find_all('p')
-    for paragraph in paragraphs:
-        text_content.append(paragraph.get_text(separator='\n').strip())
-
-    # Extract tables
-    tables = soup.find_all('table')
-    for table in tables:
-        rows = table.find_all('tr')
-        table_content = []
-        for row in rows:
-            cells = row.find_all(['th', 'td'])
-            row_content = [cell.get_text().strip() for cell in cells]
-            table_content.append(row_content)
-        text_content.append(table_content)
-    
-    print(len(text_content))
-
-    # Create the output directory if it doesn't exist
-    output_path = os.path.join("extracted-text", company_name, filing_type, filing_id)
-    os.makedirs(output_path, exist_ok=True)
-
-    # Write the extracted text to a new file inside the output directory
-    output_file_path = os.path.join(output_path, f"{filing_id}.txt")
-    with open(output_file_path, "w", encoding="utf-8") as output_file:
-        for item in text_content:
-            if isinstance(item, str):
-                # output_file.write("Paragraph:\n")
-                output_file.write(item + "\n\n")
-            elif isinstance(item, list):
-                output_file.write("Table:\n")
-                for row in item:
-                    output_file.write(str(row) + "\n")
-                output_file.write("\n")
-
-def iterate_sec_filings(root_dir, process_function):
-    # Iterate through each company folder (AAPL, MSFT, etc.)
-    for company_folder in os.listdir(root_dir):
-        company_path = os.path.join(root_dir, company_folder)
-        if os.path.isdir(company_path):
-            # Inside each company folder, look for the 10-K folder
-            ten_k_folder = os.path.join(company_path, "10-K")
-            if os.path.isdir(ten_k_folder):
-                # Inside the 10-K folder, iterate through each filing folder
-                for filing_folder in os.listdir(ten_k_folder):
-                    filing_path = os.path.join(ten_k_folder, filing_folder)
-                    if os.path.isdir(filing_path):
-                        # Inside each filing folder, look for the text file
-                        for file_name in os.listdir(filing_path):
-                            if file_name.endswith(".txt"):
-                                file_path = os.path.join(filing_path, file_name)
-                                # Call the process function with the file path and output directory
-                                process_function(file_path)
-    return
+from utils import iterate_sec_filings, risk_factor_extract, revenue_trends_extract, management_analysis_extract
+from llm import analyze_text_file
 
 def main():
     # dl = Downloader("University of Denver", "john.alfred@du.edu")
@@ -189,8 +20,76 @@ def main():
     # iterate_sec_filings("extracted-text", risk_factor_extract)
     # print("Risk Factors extracted")
 
-    iterate_sec_filings("extracted-text", revenue_trends_extract)
-    iterate_sec_filings("extracted-text", management_analysis_extract)
+    # iterate_sec_filings("extracted-text", revenue_trends_extract)
+    # iterate_sec_filings("extracted-text", management_analysis_extract)
+
+    aapl_risk_factor_range = [(4,19),
+                              (38,76),
+                              (95,133),
+                              (152,186),
+                              (205,239),
+                              (258,289),
+                              (304,339)]
+    aapl_revenue_trends_range = [(1024,1988),
+                                 (24794,27029),
+                                 (133786,137125),
+                                 (158705,164151),
+                                 (179105,185925),
+                                 (203237,209725),
+                                 (226827,228210),
+                                 (248851,255996),
+                                 (278989,279006),
+                                 (281777,287953),
+                                 (305547,318551),
+                                 (414539,419840),
+                                 (459858,469913)]
+    aapl_management_analysis_range = [(25,53),
+                                      (70,100),
+                                      (14935,14936),
+                                      (14951,14991),
+                                      (21967,21995),
+                                      (22012,22042)]
+    msft_risk_factor_range = [(5,12),
+                              (60,96),
+                              (146,150),
+                              (23773,23809)]
+    msft_revenue_trends_range = [(2,5316),
+                                 (36437,40936),
+                                 (607469,611312)]
+    msft_management_analysis_range = [(34,42),
+                                      (54,68),
+                                      (82,284)]
+
+    aapl_risk_factor_llm_response = analyze_text_file("insights/risk-factors/AAPL_risk_factor_insights.txt", aapl_risk_factor_range, "risk")
+    print("Done")
+    aapl_revenue_trends_llm_response = analyze_text_file("insights/revenue-trends/AAPL_revenue_trends_insights.txt", aapl_revenue_trends_range, "revenue")
+    print('Done')
+    aapl_management_analysis_llm_response = analyze_text_file("insights/management-analysis/AAPL_management_analysis_insights.txt", aapl_management_analysis_range, "management")
+    print('Done')
+
+    msft_risk_factor_llm_response = analyze_text_file("insights/risk-factors/MSFT_risk_factor_insights.txt", msft_risk_factor_range, "risk")
+    print('Done')
+    msft_revenue_trends_llm_response = analyze_text_file("insights/revenue-trends/MSFT_revenue_trends_insights.txt", msft_revenue_trends_range, "revenue")
+    print('Done')
+    msft_management_analysis_llm_response = analyze_text_file("insights/management-analysis/MSFT_management_analysis_insights.txt", msft_management_analysis_range, "management")
+    print('Done')
+    
+    responses = [
+        (aapl_risk_factor_llm_response, "aapl-risk-factor-response.txt"),
+        (aapl_revenue_trends_llm_response, "aapl-revenue-trends-response.txt"),
+        (aapl_management_analysis_llm_response, "aapl-management-analysis-response.txt"),
+        (msft_risk_factor_llm_response, "msft-risk-factor-response.txt"),
+        (msft_revenue_trends_llm_response, "msft-revenue-trends-response.txt"),
+        (msft_management_analysis_llm_response, "msft-management-analysis-response.txt")
+    ]
+
+    os.makedirs("llm_output", exist_ok=True)
+
+    # Write each response to a text file
+    for response, file_name in responses:
+        output_file_path = os.path.join("llm_output", file_name)
+        with open(output_file_path, "w", encoding="utf-8") as output_file:
+            output_file.write(response)
 
 if __name__ == '__main__':
     main()
