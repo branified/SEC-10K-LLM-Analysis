@@ -1,7 +1,10 @@
 import re
 from bs4 import BeautifulSoup
 import os
+import streamlit as st
+import plotly.graph_objects as go
 
+# Breaking up the large txt file into chunks for processing. 
 def chunk_text(text, chunk_size):
     chunks = []
     for i in range(0, len(text), chunk_size):
@@ -26,6 +29,7 @@ def risk_factor_extract(input_file):
         match = re.search(r'ITEM\s+1A\.\s*RIS.*?K\s+FACTORS(.*?)ITEM\s+1B', file_content, re.DOTALL)
 
     elif company_name == "AAPL":
+        # Using different match for Apple
         match = re.search(r'Item\s+1A\.\s*(.*?)Item\s+1B', file_content, re.DOTALL)
 
     # Create the output file path
@@ -56,9 +60,10 @@ def revenue_trends_extract(input_file):
     os.makedirs(insights_dir, exist_ok=True)
 
     if company_name == "MSFT":
-        # Use regular expressions to find the text between "Item 1A" and "Item 1B"
+        # Use regular expressions to find the text between "Item 8" and "Item 9"
         match = re.search(r'ITEM\s+8\.\s*FINANCIAL\s+STATEMENTS\s+AND\s+SUPPLEMENTARY\s+DATA(.*?)Item\s+9\.', file_content, re.DOTALL)
     elif company_name == "AAPL":
+        # Use different search for Apple
         match = re.search(r'Item\s+8\.\s+Financial\s+Statements\s+and\s+Supplementary\s+Data(.*?)Item\s+9\.', file_content, re.DOTALL)
 
     # Create the output file path
@@ -89,9 +94,10 @@ def management_analysis_extract(input_file):
     os.makedirs(insights_dir, exist_ok=True)
 
     if company_name == "MSFT":
-        # Use regular expressions to find the text between "Item 1A" and "Item 1B"
+        # Use regular expressions to find the text between "Item 7" and "Item 8"
         match = re.search(r'ITEM\s+7\.\s*MANAGEMENT’S\s+DISCUSSION\s+AND\s+ANALYSIS\s+OF\s+FINANCIAL\s+CONDITION\s+AND\s+RESULTS\s+OF\s+OPERATIONS(.*?)Item\s+8\.', file_content, re.DOTALL)
     elif company_name == "AAPL":
+        # Use different search for Apple
         match = re.search(r'Item\s+7\.\s*Management\s*[’\']s\s+Discussion\s+and\s+Analysis\s+of\s+Financial\s+Condition\s+and\s+Results\s+of\s+Operations(.*?)Item\s+8\.', file_content, re.DOTALL)
 
     # Create the output file path
@@ -119,7 +125,7 @@ def html_to_text(input_file):
 
     # Parse HTML using BeautifulSoup
     soup = BeautifulSoup(html_content, 'lxml')
-    print("Parsing HTML\n")
+
     # Extract text content
     text_content = []
 
@@ -150,7 +156,6 @@ def html_to_text(input_file):
     with open(output_file_path, "w", encoding="utf-8") as output_file:
         for item in text_content:
             if isinstance(item, str):
-                # output_file.write("Paragraph:\n")
                 output_file.write(item + "\n\n")
             elif isinstance(item, list):
                 output_file.write("Table:\n")
@@ -177,3 +182,43 @@ def iterate_sec_filings(root_dir, process_function):
                                 # Call the process function with the file path and output directory
                                 process_function(file_path)
     return
+
+# Graph Functions
+
+# Bar chart to visualize risk factors
+def bar_chart(risk_factor):
+    # Create the bar chart
+    fig = go.Figure(data=go.Bar(x=risk_factor['Label'], y=risk_factor['Value']))
+    fig.update_layout(title="Common Phrases of Risk Factors", xaxis_title="Insights", yaxis_title="Count")
+    st.plotly_chart(fig)
+
+# Sentiment analysis from management's analysis
+def sentiment_analysis(file_path):
+    with open(file_path, "r", encoding="utf-8") as file:
+        text = file.read()
+    # Searching for -1 through 1 numbers
+    pattern = r'\b-?(?:0(?:\.\d+)?|1(?:\.0+)?)\b'
+    matches = re.findall(pattern, text)
+    # Calculating the average
+    total = sum(float(match) for match in matches)
+    count = len(matches)
+    score = total / count
+    # Creating the figure
+    fig = go.Figure(go.Indicator(
+        mode = "gauge+number",
+        value = score,
+        domain = {'x': [0, 1], 'y': [0, 1]},
+        title = {'text': "Sentiment Confidence"},
+        gauge = {'axis': {'range': [-1, 1]},
+                 'bar': {'color': "darkblue"},
+                 'steps' : [
+                     {'range': [-1, -0.5], 'color': "red"},
+                     {'range': [-0.5, 0.5], 'color': "orange"},
+                     {'range': [0.5, 1], 'color': "green"}]}))
+    st.plotly_chart(fig)
+
+# Line chart to visualize revenue trends
+def line_chart(revenue_data):
+    fig = go.Figure(data=go.Scatter(x=revenue_data['Year'], y=revenue_data['Revenue'], mode='lines+markers'))
+    fig.update_layout(title="Revenue through the Years", xaxis_title="Year", yaxis_title="Revenue (in millions) ($)")
+    st.plotly_chart(fig)

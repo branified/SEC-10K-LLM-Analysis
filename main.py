@@ -1,27 +1,27 @@
 from sec_edgar_downloader import Downloader
 import os
-from utils import iterate_sec_filings, risk_factor_extract, revenue_trends_extract, management_analysis_extract
+from utils import html_to_text, iterate_sec_filings, risk_factor_extract, revenue_trends_extract, management_analysis_extract
 from llm import analyze_text_file
 
 def main():
-    # dl = Downloader("University of Denver", "john.alfred@du.edu")
+    school = input("Please provide the institution/company you are a part of: ")
+    email = input("Provide your email from this insitute/company: ")
+    dl = Downloader(school, email)
 
-    # companies = ["AAPL", "MSFT"]
+    companies = ["AAPL", "MSFT"]
 
-    # for company in companies:
-    #     dl.get("10-K", company, after="1995-01-01", before="2024-01-01")
+    for company in companies:
+        dl.get("10-K", company, after="1995-01-01", before="2024-01-01")
     
-    # print("Downloaded SEC 10-K Filings")
+    print("Downloaded SEC 10-K Filings")
 
     # HTML Parser
-    # iterate_sec_filings("sec-edgar-filings", html_to_text)
-    # print("Parsed")
-    
-    # iterate_sec_filings("extracted-text", risk_factor_extract)
-    # print("Risk Factors extracted")
+    iterate_sec_filings("sec-edgar-filings", html_to_text)
 
-    # iterate_sec_filings("extracted-text", revenue_trends_extract)
-    # iterate_sec_filings("extracted-text", management_analysis_extract)
+    # Getting the specific insight sections
+    iterate_sec_filings("extracted-text", risk_factor_extract)
+    iterate_sec_filings("extracted-text", revenue_trends_extract)
+    iterate_sec_filings("extracted-text", management_analysis_extract)
 
     aapl_risk_factor_range = [(4,19),
                               (38,76),
@@ -60,20 +60,15 @@ def main():
                                       (54,68),
                                       (82,284)]
 
+    # NOTE: This process takes a long time, especially if you have a lot of text to analyze. Add print statements or another method (TQDM) to track your progress
     aapl_risk_factor_llm_response = analyze_text_file("insights/risk-factors/AAPL_risk_factor_insights.txt", aapl_risk_factor_range, "risk")
-    print("Done")
     aapl_revenue_trends_llm_response = analyze_text_file("insights/revenue-trends/AAPL_revenue_trends_insights.txt", aapl_revenue_trends_range, "revenue")
-    print('Done')
     aapl_management_analysis_llm_response = analyze_text_file("insights/management-analysis/AAPL_management_analysis_insights.txt", aapl_management_analysis_range, "management")
-    print('Done')
 
     msft_risk_factor_llm_response = analyze_text_file("insights/risk-factors/MSFT_risk_factor_insights.txt", msft_risk_factor_range, "risk")
-    print('Done')
     msft_revenue_trends_llm_response = analyze_text_file("insights/revenue-trends/MSFT_revenue_trends_insights.txt", msft_revenue_trends_range, "revenue")
-    print('Done')
     msft_management_analysis_llm_response = analyze_text_file("insights/management-analysis/MSFT_management_analysis_insights.txt", msft_management_analysis_range, "management")
-    print('Done')
-    
+
     responses = [
         (aapl_risk_factor_llm_response, "aapl-risk-factor-response.txt"),
         (aapl_revenue_trends_llm_response, "aapl-revenue-trends-response.txt"),
